@@ -54,7 +54,6 @@
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
--->
 
 ---
 
@@ -63,8 +62,6 @@
   <a href="mailto:11246062@ntub.edu.tw"><img src="https://img.icons8.com/fluency/48/gmail-new.png" height="40" alt="email"/></a>
   <a href="https://www.linkedin.com/in/hao-1938111b9"><img src="https://img.icons8.com/fluency/48/linkedin.png" height="40" alt="linkedin"/></a>
   <a href="https://x.com/qiu_hao73480"><img src="https://img.icons8.com/color/48/twitterx--v1.png" height="40" alt="twitter"/></a>
+  <a href="https://github.com/Hao-weii"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-github-a-web-based-hosting-service-for-version-control-logo-color-tal-revivo.png" height="40" alt="github"/></a>
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hao-weii.Hao-weii" alt="visitor badge"/>
-</p>
