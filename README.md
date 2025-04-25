@@ -49,7 +49,7 @@
 
 ---
 
-<!-- 未來想自動載入 blog，保留區塊並設定 GitHub Action -->
+<!-- 若未來想自動載入 blog，可保留區塊並設定 GitHub Action -->
 <!--
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
