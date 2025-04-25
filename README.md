@@ -1,32 +1,64 @@
-## Hi there 👋 你好！
+![個人頁](https://github.com/user-attachments/assets/1caf6e2b-45fc-47cc-bc65-cd2ff17ec757)
 
-> “Stay curious, keep shipping.”
+<h1 align="center">Hi there 👋, I'm <strong>WeiHao</strong>!</h1>
 
-### 👨‍💻 About Me / 關於我
-- 🔭 I’m currently working on **a decentralized accommodation booking system** (Django + Next.js) and a **daily-use medical diagnostic chatbot** on **AWS PartyRock**.  
-- 🌱 I’m deep-diving into **Google Cloud** (VPC, Compute Engine, Cloud SQL, Cloud Run, IAP) and **generative-AI services** (Amazon Bedrock, SageMaker JumpStart).  
-- 👯 I’m looking to collaborate on open-source projects in **cloud architecture, AI-driven web apps, and Web3**.  
-- 💬 Ask me about **Django best practices, GitHub Actions CI/CD, PartyRock hacks, or AWS/GCP networking**.  
-- 📫 Reach me: 11246062@ntub.edu.tw ｜ [X / Twitter](https://x.com/qiu_hao73480)  
-- 😄 Pronouns: he/him ｜ 🏡 Based in Taiwan (UTC+8)  
-- ⚡ Fun fact: I can solve a Rubik’s Cube in **< 60 s** & love astrophotography 🌌.
-
-### 🛠️ Tech Stack / 技術棧
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hao-weii&show_icons=true&theme=radical" alt="GitHub Stats" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hao-weii&layout=compact&theme=radical" alt="Top Langs" width="47%"/>
+  <em>Stay curious, keep shipping.</em>
 </p>
 
-### 🏆 Achievements / 機構證書與獲獎
-- **AWS Certified Solutions Architect – Associate** (2024)
+---
 
-### 📚 Latest Blog Posts
-### 🗂️ Pinned Repositories
+## 👨‍💻 About Me
+- 🎯 **Field of interest**：Decentralized accommodation booking system、Generative-AI web apps  
+- 🛠 Currently hacking on **Django + Next.js** & **AWS PartyRock** medical chatbot  
+- 🌱 Learning：GCP VPC / Compute Engine ▪︎ Cloud Run ▪︎ Cloud SQL  
+- 🏆 2025 Digitimes Generative-AI Hackathon – *Creative Exchange Group* finalist  
+- 📫 Reach me：**EMAIL** ｜ [LinkedIn](LINKEDIN_URL) ｜ [Twitter](TWITTER_URL)  
+- 😄 Pronouns：he/him ｜ 🌏 Taipei, Taiwan (UTC+8)  
+- ⚡ Fun fact：Solve a Rubik’s Cube in **<60 s** & capture Milky Way shots 🌌  
+
+---
+
+## 🛠 Tech Stack & Tools
+<!-- 建議把所有 icon 都統一 height；以下 40px 為例 -->
+<p align="center">
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <!-- Django -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django"/>
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <!-- ✅ 正確的 AWS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS"/>
+  <!-- GCP -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP"/>
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+</p>
+
+
+---
+
+## 🔥 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hao-weii&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hao-weii&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
+
+---
+
+## ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🤝 Connect With Me
+<p align="center">
+  <a href="mailto:EMAIL"><img src="https://img.icons8.com/fluency/48/gmail-new.png" height="40" alt="email"/></a>
+  <a href="LINKEDIN_URL"><img src="https://img.icons8.com/fluency/48/linkedin.png" height="40" alt="linkedin"/></a>
+  <a href="TWITTER_URL"><img src="https://img.icons8.com/color/48/twitterx--v1.png" height="40" alt="twitter"/></a>
+  <a href="https://YOUR_USERNAME.github.io"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-github-a-web-based-hosting-service-for-version-control-logo-color-tal-revivo.png" height="40" alt="github"/></a>
+</p>
