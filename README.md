@@ -22,7 +22,6 @@
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hao-weii&show_icons=true&theme=radical" alt="GitHub Stats" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hao-weii&theme=radical" alt="GitHub Streak" width="47%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hao-weii&layout=compact&theme=radical" alt="Top Langs" width="47%"/>
 </p>
 
