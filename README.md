@@ -28,7 +28,7 @@
 - 🎓 **身分**：國立臺北商業大學（NTUB）資訊管理系大三學生 / 實習生
 - 🎯 **核心領域**：後端架構設計、資料庫優化、AI Agent 工作流與系統整合
 - 💡 **做事原則**：重視工程邏輯、可維護性與清晰架構，追求將 AI 技術轉化為真實世界的生產力
-- 📚 **數位大腦**：建立開源的個人數位資產庫 [weihao-brain](https://github.com/Hao-weii/weihao-brain)，持續實踐「公開學習（Learn in Public）」與工程方法論
+- 🌱 **持續深入**：探究 Agentic Workflow、RAG 檢索優化與現代後端架構，實踐「公開學習（Learn in Public）」
 
 ---
 
@@ -54,20 +54,20 @@
 
 ## ⭐ Featured Projects
 
-### 🚀 [FocusFlow](https://github.com/Hao-weii) *(專題進行中)*
+### 🚀 [FocusFlow](https://github.com/Hao-weii/focusflow) *(專題進行中)*
 > **AI 教育影音問答系統**
-- 負責後端架構規劃、資料前處理與 AI 模型檢索整合。
+- 參與後端架構規劃、資料前處理與 AI 模型檢索整合。
 - 專注於解決長影音內容檢索、降低回應延遲並提升問答精確度。
 
-### 🧠 [weihao-brain](https://github.com/Hao-weii/weihao-brain)
-> **個人數位大腦與跨 AI 工具資產中樞**
-- 實踐「知識、工作法、去敏專案」三層架構，建立生產級 ADR 決策範本。
-- 透過跨平台符號連結（Junction）實現 Claude Code、Codex 與 Antigravity 的技能共享。
+### 🏨 [accommodation_system](https://github.com/Hao-weii/accommodation_system)
+> **全功能訂房與房源管理系統**
+- 基於 **Django 5.2** 與 **Django REST Framework (DRF)** 開發之後端系統，採用 MySQL 資料庫。
+- 實現房客/房東雙角色認證、房源 CRUD、預訂與評價模組，並整合 drf-spectacular 產出 OpenAPI/Swagger API 文件。
 
-### 📄 [docling_workspace](https://github.com/Hao-weii/docling_workspace)
-> **Docling 高解析度大檔案 PDF 自動化轉換流水線**
-- 設計分批切割（Chunking）與排隊流水線，解決 OCR 視覺模型在 Windows 上的記憶體溢出（`std::bad_alloc`）。
-- 建立快取隔離機制，保護系統槽空間不被大型 AI 模型佔滿。
+### 🤖 [learn-claude-code](https://github.com/Hao-weii/learn-claude-code)
+> **AI Agent 架構與 Harness 原理實作探索**
+- 深入探究 AI Agent 核心架構：Agent Loop、Tool Execution、Subagent、Context Compact 與 MCP 能力路由。
+- 透過漸進式架構演進，理解現代 Coding Agent 的狀態管理與執行機制。
 
 ---
 
