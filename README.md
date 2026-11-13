@@ -64,10 +64,10 @@
 - 基於 **Django 5.2** 與 **Django REST Framework (DRF)** 開發之後端系統，採用 MySQL 資料庫。
 - 實現房客/房東雙角色認證、房源 CRUD、預訂與評價模組，並整合 drf-spectacular 產出 OpenAPI/Swagger API 文件。
 
-### 🤖 [learn-claude-code](https://github.com/Hao-weii/learn-claude-code)
-> **AI Agent 架構與 Harness 原理實作探索**
-- 深入探究 AI Agent 核心架構：Agent Loop、Tool Execution、Subagent、Context Compact 與 MCP 能力路由。
-- 透過漸進式架構演進，理解現代 Coding Agent 的狀態管理與執行機制。
+### 📝 [meeting-app](https://github.com/Hao-weii/meeting-app)
+> **AI 會議紀錄自動化生成工具 (Meeting Minutes App)**
+- 基於 **Node.js** 與 **Express** 開發，串接 **Google Gemini AI** 與 **Notion API**。
+- 支援會議錄音/音訊上傳與串流處理，自動調用 Gemini 多模態分析提煉會議重點、決策與行動清單，並一鍵同步寫入 Notion 資料庫。
 
 ---
 
