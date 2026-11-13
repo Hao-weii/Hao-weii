@@ -11,8 +11,8 @@
 > *「習慣把複雜的問題拆解清楚，並一步一步做成真正可用的成果。」*
 
 <p align="center">
-  <a href="mailto:11246062@ntub.edu.tw">
-    <img src="https://img.shields.io/badge/Email-11246062%40ntub.edu.tw-0284c7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:chiuweihao61@gmail.com">
+    <img src="https://img.shields.io/badge/Email-chiuweihao61%40gmail.com-0284c7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Hao-weii">
     <img src="https://img.shields.io/badge/GitHub-Hao--weii-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
